@@ -34,10 +34,10 @@ export default function NavBar() {
                   {/* Right Navigation options */}
                   <ul className="navbar-nav align-items-start align-items-lg-center mb-2 mb-lg-0 gap-1"> 
                     <li className="nav-item">
-                      <NavLink className="nav-link" to="/login">Đăng Nhập</NavLink>
+                      <NavLink className="nav-link" to="/login">Đăng nhập</NavLink>
                     </li>
                     <li className="nav-item">
-                      <NavLink className="nav-link" to="/join">Đăng Ký</NavLink>
+                      <NavLink className="nav-link" to="/join">Đăng ký</NavLink>
                     </li>
                     <li className="nav-item">
                       <NavLink className="nav-link" to="/cart">

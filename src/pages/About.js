@@ -13,7 +13,7 @@ export default function About() {
       <br />
       <br />
       Bước chân vào Heo Béo, bạn sẽ ngập tràn trong ánh đèn vàng nhẹ nhàng, tạo nên bầu không khí ấm áp và thân thiện. 
-      Các món ăn trên thực đơn đa dạng và hấp dẫn, từ những món truyền thống cho đến những sáng tạo mới, 
+      Các món ăn trên thực đơn đa dạng và hấp dẫn,
       mang lại cho thực khách trải nghiệm ẩm thực độc đáo và thú vị.</>}
       btnText="Liên hệ tại đây 📞"
       btnLink="/contact"

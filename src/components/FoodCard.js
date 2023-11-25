@@ -22,14 +22,14 @@ export default function FoodCard({ foodItem }) {
                                             return item.foodId !== foodItem.foodId;
                                         }));
                                     }}
-                                >Remove From Cart</button>
+                                >Xóa khỏi giỏ hàng</button>
                             ) : (
                                 <button
                                     className="btn btn-view-item"
                                     onClick={() => {
                                         setCart([...cart, {...foodItem, foodQuantity : 1}]);
                                     }}
-                                >Add To Cart</button>
+                                >Thêm vào giỏ hàng</button>
                             )}
                             <button className="btn border-0"> {foodItem.foodPrice} VND</button>
                         </div>
