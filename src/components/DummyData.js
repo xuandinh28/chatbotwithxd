@@ -54,7 +54,7 @@ const DummyData = [
         foodId: 7,
         foodImg: foodImg7,
         foodTitle: "Cola",
-        foodText: "Thêm mô tả món ăn tại đây có thể ghi đầy đủ chi tiết nếu cần thiết!",
+        foodText: "Thêm mô tả món ăn tại đây có thể ghi đầy đủ chi tiết nếu cần thiết.",
         foodPrice: 10000,
     },
     {

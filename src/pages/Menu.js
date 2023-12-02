@@ -42,7 +42,7 @@ export default function Menu() {
                 )
               })
             ) : (
-              <p className="text-center fs-4">Xin lỗi món này Heo Béo chưa kinh doanh 😢 </p>
+              <p className="text-center fs-4">Xin lỗi món này Heo Béo chưa kinh doanh. 😢 </p>
             )}
           </div>
         </div>

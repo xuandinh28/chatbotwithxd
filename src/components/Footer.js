@@ -21,7 +21,7 @@ export default function Footer() {
                     </a>
                 </div>
                 <p>
-                     <Link to="/" className="text-decoration-none colored-text">Heo Béo Cảm Ơn</Link>
+                     <Link to="/" className="text-decoration-none colored-text">Heo Béo Cảm Ơn!</Link>
                 </p>
             </div>
         </div>
